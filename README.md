@@ -1,6 +1,6 @@
 # 3D Glowing Text Animation CSS
 
-- Stacked 10 <H1></H1> text on top of each other to create depth.
+- Stacked 10 H1 text on top of each other to create depth.
 - added animation and glow to stacked 3D text.  
 
 - animation: wobble
